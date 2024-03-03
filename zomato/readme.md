@@ -1,4 +1,4 @@
-We would be creating zomato clone:
+
 
     1. BACKEND
 
